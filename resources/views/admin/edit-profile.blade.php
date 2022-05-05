@@ -10,7 +10,7 @@
                 <div class="content container-fluid">
                     <div class="row align-items-center">
 
-                <!-- Page Content -->
+                <!-- Page Content center -->
 
                 <div class="page-header">
                     <div class="row align-items-center">
